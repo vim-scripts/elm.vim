@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4992
+
+Vim plugin for the Elm programming language. 
+
+Includes syntax highlighting and integration with the Elm compiler, repl, etc.
+
+See: https://github.com/lambdatoast/elm.vim
